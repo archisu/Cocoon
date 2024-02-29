@@ -1,0 +1,3 @@
+This prototype aims to demonstrate the possibilities of information retrieval from a standard IFC model, and the extents to which this information can be utilized for several application areas such as fabrication, planning, and scheduling on construction sites.
+
+The prototype assumes the existence of a standard IFC Model that was prepared for the hypothetical single storey residential project. Fabrication data generation including the robot motions, does not require any additional input other than this IFC Model. The whole workflow can be divided into two parts: IFC Information Retriveal with Python, and Fabrication Data Generation using Rhino Grasshopper.
