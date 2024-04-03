@@ -14,4 +14,4 @@ Cocoon: Collaborative Construction for Discrete Assemblies by Doğa Su Kıralio�
 
 dogasukiralioglu@gmail.com
 
-Construction Robotics Master’s Program | Winter Semester 2023-24. RWTH Aachen University. Special thanks to Prof. Jakob Beetz.
+Construction Robotics Master’s Program | Winter Semester 2023-24. RWTH Aachen University. Special thanks to Prof. Jakob Beetz and René Beck.
